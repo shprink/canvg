@@ -1,0 +1,24 @@
+{
+  "name": "canvg",
+  "version": "1.3.0",
+  "description": "Javascript SVG parser and renderer on Canvas",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shprink/canvg.git"
+  },
+  "keywords": [
+    "canvas",
+    "svg",
+    "convertor"
+  ],
+  "author": "Gabe Lerner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shprink/canvg/issues"
+  },
+  "homepage": "https://github.com/shprink/canvg"
+}
