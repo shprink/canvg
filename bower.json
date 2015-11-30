@@ -6,10 +6,7 @@
         "Gabe Lerner <gabelerner@gmail.com>"
     ],
     "description": "Javascript SVG parser and renderer on Canvas",
-    "main": [
-        "dist/canvg.bundle.js",
-        "dist/canvg.bundle.min.js"
-    ],
+    "main": "dist/canvg.bundle.js"
     "keywords": [
         "canvas",
         "svg",
